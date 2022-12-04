@@ -78,10 +78,7 @@ fn main() {
     if problem == "1" {
         problem_1(&input);
     } else {
-        problem_1(&input);
+        problem_2(&input);
     }
 }
-
-
-
  */
